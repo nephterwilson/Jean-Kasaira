@@ -1,0 +1,9 @@
+
+
+  <!-- About Section -->
+  <section class="max-w-4xl mx-auto py-16 px-6 text-center">
+    <h2 class="text-3xl font-bold text-rose-700 mb-6">About Jean</h2>
+    <p class="text-lg text-gray-700">
+      Jean Kasaira is a passionate professional with a strong academic foundation and real-world expertise in human development, health, and communication. With a deep understanding of social behavior and health communication strategies, she works to empower individuals and communities through education, storytelling, and participatory engagement.
+    </p>
+  </section>
